@@ -3,15 +3,15 @@
 
 <!-- - 🔭 I’m currently working on [My portfolio]([in construcction]) -->
 
-- 🌱 I’m currently learning **How mejorate my backend habilities and my python programming skills.**
+- 🌱 I’m currently learning: **How mejorate my backend habilities and my python programming skills.**
 
 <!-- - 👨‍💻 All of my projects are available at [[in construcction]]([in construcction]) -->
 
-- 📝 I write regularly about myself and my development on [https://twitter.com/LautaM_Dev](https://twitter.com/LautaM_Dev)
+- 📝 I write regularly about myself and my development on: [https://twitter.com/LautaM_Dev](https://twitter.com/LautaM_Dev)
 
-- 💬 Ask me about **Python, Django, Backend**
+- 💬 Ask me about: **Python, Django, Backend**
 
-- 📫 How to reach me **lautajamerino@gmail.com**
+- 📫 How to reach me: **lautajamerino@gmail.com**
 
 <h3 align="left">Languages and Tools</h3>
 <h4 align="left">Front-end:</h4>
