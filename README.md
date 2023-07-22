@@ -1,14 +1,14 @@
 <h1 align="center">Hello visitor! I'm Lautaro Merino</h1>
 <h3 align="center">Programmer by vocation, I love what surrounds programming since I met her with 14 years. So much so that I study Systems Analysis at UBA.</h3>
 
-<!-- - 🔭 I’m currently working on [My portfolio]([in construcction]) -->
+🏗️ I’m currently working on [My portfolio] (in construction) <!-- -([in construcction])-->
 
 <!-- - 👨‍💻 All of my projects are available at [[in construcction]]([in construcction]) -->
 
-🌱 I am immersed in learning to improve my backend development skills and Python proficiency.
+📚 I am immersed in learning to improve my backend development skills and Python proficiency.
 
 <p>
-📚 Some of my interests and projects on GitHub include:<br>
+👨‍💻 Some of my interests and projects on GitHub include:<br>
 - Web applications using Django ranging from blogs to e-commerce platforms.<br>
 - RESTful API development using Django Rest Framework to create scalable and secure backend services.<br>
 - Data analytics projects that explore and extract valuable information from diverse datasets.<br>
