@@ -5,17 +5,21 @@
 
 <!-- - 👨‍💻 All of my projects are available at [[in construcction]]([in construcction]) -->
 
-🌱 Currently, I am immersed in learning to improve my backend development skills and Python proficiency.
+🌱 I am immersed in learning to improve my backend development skills and Python proficiency.
 
-📚 Some of my interests and projects on GitHub include:
- -Web applications using Django ranging from blogs to e-commerce platforms.
- -RESTful API development using Django Rest Framework to create scalable and secure backend services.
- -Data analytics projects that explore and extract valuable information from diverse datasets.
- -Experimenting with advanced databases and optimization techniques to improve application performance.
+<p>
+📚 Some of my interests and projects on GitHub include:<br>
+- Web applications using Django ranging from blogs to e-commerce platforms.<br>
+- RESTful API development using Django Rest Framework to create scalable and secure backend services.<br>
+- Data analytics projects that explore and extract valuable information from diverse datasets.<br>
+- Experimenting with advanced databases and optimization techniques to improve application performance.<br>
+</p>
 
-📝 I also regularly write about myself, my development and learning on my Twitter account: https://twitter.com/LautaM_Dev
+📝 I also regularly write about myself, my development and learning on my Twitter account: [Twitter account](https://twitter.com/LautaM_Dev)
+
 💬 If you have any questions about Python, Django or backend development, I'm happy to help!
-📫 You can contact me by email at lautajamerino@gmail.com for any inquiries or collaboration opportunities.
+
+📫 You can contact me by [email](lautajamerino@gmail.com) or by [linkedin](https://www.linkedin.com/in/lautaro-julian-alejo-merino/) for any inquiries or collaboration opportunities.
 
 <h3 align="left">Languages and Tools</h3>
 <h4 align="left">Front-end:</h4>
