@@ -15,11 +15,11 @@
 - Experimenting with advanced databases and optimization techniques to improve application performance.<br>
 </p>
 
-📝 I also regularly write about myself, my development and learning on my Twitter account: [Twitter account](https://twitter.com/LautaM_Dev)
+📝 I also regularly write about myself, my development and learning on my [Twitter account](https://twitter.com/LautaM_Dev).
 
 💬 If you have any questions about Python, Django or backend development, I'm happy to help!
 
-📫 You can contact me by [email](lautajamerino@gmail.com) or by [linkedin](https://www.linkedin.com/in/lautaro-julian-alejo-merino/) for any inquiries or collaboration opportunities.
+📫 You can contact me by email at lautajamerino@gmail.com or by [linkedin](https://www.linkedin.com/in/lautaro-julian-alejo-merino/) for any inquiries or collaboration opportunities.
 
 <h3 align="left">Languages and Tools</h3>
 <h4 align="left">Front-end:</h4>
