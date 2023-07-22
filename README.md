@@ -3,13 +3,11 @@
 
 <!-- - 🔭 I’m currently working on [My portfolio]([in construcction]) -->
 
-- 🌱 I’m currently learning: **How mejorate my backend habilities and my python programming skills.**
+- 📚 I’m currently learning **how mejorate my backend habilities and my python programming skills.**
 
 <!-- - 👨‍💻 All of my projects are available at [[in construcction]]([in construcction]) -->
 
 - 📝 I write regularly about myself and my development on: [https://twitter.com/LautaM_Dev](https://twitter.com/LautaM_Dev)
-
-- 💬 Ask me about: **Python, Django, Backend**
 
 - 📫 How to reach me: **lautajamerino@gmail.com**
 
