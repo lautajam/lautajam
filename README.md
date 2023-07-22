@@ -1,7 +1,7 @@
 <h1 align="center">Hello visitor! I'm Lautaro Merino</h1>
 <h3 align="center">Programmer by vocation, I love what surrounds programming since I met her with 14 years. So much so that I study Systems Analysis at UBA.</h3>
 
-🏗️ I’m currently working on My portfolio (in construction) <!-- -[My portfolio]([in construcction])-->
+🏗️ I'm currently working on a [Famous Programmers API](https://github.com/lautajam/programmers_api)
 
 <!-- - 👨‍💻 All of my projects are available at [[in construcction]]([in construcction]) -->
 
