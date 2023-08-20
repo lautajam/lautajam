@@ -3,7 +3,7 @@
 
 <!-- 🏗️ I'm currently working on a [Famous Programmers API](https://github.com/lautajam/programmers_api) -->
 
-👨‍💻 All of my projects are available in 'My portfolio' (in construcction)
+👨‍💻 All of my projects are available in 'My portfolio' (in construcction).
 
 📚 I am immersed in learning to improve my backend development skills and Python proficiency.
 
