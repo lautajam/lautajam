@@ -8,7 +8,7 @@
 📚 I am immersed in learning to improve my backend development skills and Python proficiency.
 
 <p>
-👨‍💻 Some of my interests and projects on GitHub include:<br>
+👨‍💻 Some of my interests and projects on GitHub include: <br>
 - Web applications using Django ranging from blogs to e-commerce platforms.<br>
 - RESTful API development using Django Rest Framework to create scalable and secure backend services.<br>
 - Data analytics projects that explore and extract valuable information from diverse datasets.<br>
