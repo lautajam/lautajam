@@ -1,11 +1,11 @@
 <h1 align="center">Hello visitor! I'm Lautaro Merino</h1> 
-<h3 align="center">Programmer by vocation, I love what surrounds programming since I met her with 14 years. So much so that I study Systems Analysis at UBA.</h3>
+<h3 align="center">Programmer by vocation, I love what surrounds programming since I met her with 14 years. So much so that I study Computer Engineering at UBA.</h3>
 
 <!-- 🏗️ I'm currently working on a [Famous Programmers API](https://github.com/lautajam/programmers_api) -->
 
 👨‍💻 All of my projects are available in 'My portfolio' (in construcction). 
 
-📚 I am immersed in learning to improve my backend development skills and Python proficiency.
+📚 I am immersed in learning to improve my backend development skills.
 
 <p>
 👨‍💻 Some of my interests and projects on GitHub include: <br>
@@ -13,11 +13,9 @@
 - RESTful API development using Django Rest Framework to create scalable and secure backend services.<br>
 - Data analytics projects that explore and extract valuable information from diverse datasets.<br>
 - Experimenting with advanced databases and optimization techniques to improve application performance.<br>
-</p>
+</p> -->
 
 📝 I also regularly write about myself, my development and learning on my [Twitter account](https://twitter.com/LautaM_Dev).
-
-💬 If you have any questions about Python, Django or backend development, I'm happy to help!
 
 📫 You can contact me by email at lautajamerino@gmail.com or by [linkedin](https://www.linkedin.com/in/lautaro-julian-alejo-merino/) for any inquiries or collaboration opportunities.
 
