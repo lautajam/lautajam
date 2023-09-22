@@ -13,7 +13,7 @@
 - RESTful API development using Django Rest Framework to create scalable and secure backend services.<br>
 - Data analytics projects that explore and extract valuable information from diverse datasets.<br>
 - Experimenting with advanced databases and optimization techniques to improve application performance.<br>
-</p> -->
+</p>
 
 📝 I also regularly write about myself, my development and learning on my [Twitter account](https://twitter.com/LautaM_Dev).
 
