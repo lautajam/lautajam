@@ -2,7 +2,7 @@
 <h3 align="center">Programmer by vocation, I love what surrounds programming since I met her with 14 years. So much so that I study Computer Engineering at UBA.</h3>
 
 <!-- 🏗️ I'm currently working on a [}( ) -->
-
+ 
 👨‍💻 All of my projects are available in 'My portfolio' (in construcction). 
 
 📚 I am immersed in learning to improve my backend development skills.
