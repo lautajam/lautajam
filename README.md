@@ -3,8 +3,6 @@
 
 <!-- 🏗️ I'm currently working on a [}( ) -->
  
-👨‍💻 All of my projects are available in 'My portfolio' (in construcction). 
-
 📚 I am immersed in learning to improve my backend development skills.
 
 <p>
