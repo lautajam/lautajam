@@ -3,17 +3,22 @@
 
 <!-- 🏗️ I'm currently working on a [}( ) -->
  
-📚 I am immersed in learning to improve my backend development skills.
+📚 I am fully dedicated to enhancing my backend development skills in Java with Spring.
+
+🔌 I have a deep passion for microcontroller programming in C, which has been the case since high school, where I studied for Electronics Technician.
+
+🎓 Additionally, you can explore my university projects, spanning a variety of languages such as C, Python, Go, Java, and more.
 
 <p>
-👨‍💻 Some of my interests and projects on GitHub include: <br>
-- Web applications using Django ranging from blogs to e-commerce platforms.<br>
-- RESTful API development using Django Rest Framework to create scalable and secure backend services.<br>
-- Data analytics projects that explore and extract valuable information from diverse datasets.<br>
-- Experimenting with advanced databases and optimization techniques to improve application performance.<br>
+👨‍💻 Some of my interests and GitHub projects include: <br>
+- Developing web applications using Spring Boot in Java, ranging from blogs to e-commerce platforms.<br>
+- Creating scalable and secure backend services by developing RESTful APIs with Spring Boot.<br>
+- Exploring automation solutions using Python to streamline various tasks.<br>
+- Experimenting with advanced databases and optimization techniques to enhance application performance in both Java and Python environments.<br>
+- Designing desktop applications using Java and Python, focusing on user-friendly interfaces and functionality.<br>
 </p>
 
-📝 I also regularly write about myself, my development and learning on my [Twitter account](https://twitter.com/LautaM_Dev).
+📝 I also regularly write about myself, my development and learning on my [Twitter account](https://twitter.com/LautaM_Dev) (in spanish).
 
 📫 You can contact me by email at lautajamerino@gmail.com or by [linkedin](https://www.linkedin.com/in/lautaro-julian-alejo-merino/) for any inquiries or collaboration opportunities.
 
