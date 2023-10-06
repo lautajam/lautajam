@@ -1,6 +1,8 @@
 <h1 align="center">Hello visitor! I'm Lautaro Merino</h1> 
 <h3 align="center">Programmer by vocation, I love what surrounds programming since I met her with 14 years. So much so that I study Computer Engineering at UBA.</h3>
 
+<p align="left"> <a href="https://twitter.com/lautajam" target="blank"><img src="https://img.shields.io/twitter/follow/lautajam?logo=twitter&style=for-the-badge" alt="lautajam" /></a> </p>
+
 <!-- 🏗️ I'm currently working on a [}( ) -->
  
 📚 I am immersed in learning to improve my backend development skills.
@@ -48,7 +50,6 @@
 <h1 align="center">Hello visitor! I'm Lautaro Merino</h1>
 <h3 align="center">Programmer by vocation, I love what surrounds programming since I met her with 14 years. So much so that I study Informatic Engineering at UBA.</h3>
 
-<p align="left"> <a href="https://twitter.com/lautajam" target="blank"><img src="https://img.shields.io/twitter/follow/lautajam?logo=twitter&style=for-the-badge" alt="lautajam" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
