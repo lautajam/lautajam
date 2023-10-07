@@ -16,6 +16,7 @@
 - Exploring automation solutions using Python to streamline various tasks.<br>
 - Experimenting with advanced databases and optimization techniques to enhance application performance in both Java and Python environments.<br>
 - Designing desktop applications using Java and Python, focusing on user-friendly interfaces and functionality.<br>
+- Additionally, I occasionally delve into microcontroller programming, typically in C, to work on embedded systems projects.<br>
 </p>
 
 📝 I also regularly write about myself, my development and learning on my [Twitter account](https://twitter.com/LautaM_Dev) (in spanish).
