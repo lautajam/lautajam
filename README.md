@@ -21,7 +21,7 @@
 
 📝 I also regularly write about myself, my development and learning on my [Twitter account](https://twitter.com/LautaM_Dev) (in spanish).
 
-📫 You can contact me by email at [my email](lautajamerino@gmail.com) or by [my linkedin](https://www.linkedin.com/in/lautaro-julian-alejo-merino/) for any inquiries or collaboration opportunities.
+📫 You can contact me by email at lautajamerino@gmail.com or by [my linkedin](https://www.linkedin.com/in/lautaro-julian-alejo-merino/) for any inquiries or collaboration opportunities.
 
 <h2 align="left">Languages and Tools</h3>
 <h3 align="left">Front-end:</h4>
