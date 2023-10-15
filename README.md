@@ -2,7 +2,7 @@
 <h3 align="center">Programmer by vocation, I love what surrounds programming since I met her with 14 years. So much so that I study Computer Engineering at UBA.</h3>
 
 <!-- 🏗️ I'm currently working on a [}( ) -->
- 
+  
 📚 I am fully dedicated to enhancing my backend development skills in Java with Spring.
 
 🔌 I have a deep passion for microcontroller programming in C, which has been the case since high school, where I studied for Electronics Technician.
