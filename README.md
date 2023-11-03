@@ -7,7 +7,7 @@ This is [my personal page](https://lautaro-merino.notion.site/Buenas-Lautaro-un-
 
 🔌 I have a deep passion for microcontroller programming in C, which has been the case since high school, where I studied for Electronics Technician.
 
-🎓 Additionally, you can explore my university projects, spanning a variety of languages such as C, Python, Go, Java, and more.
+🎓 Additionally, you can explore my university projects, spanning a variety of languages such as C, Python, JavaScript, Java, Go, and more.
 
 <p>
 👨‍💻 Some of my interests and GitHub projects include: <br>
