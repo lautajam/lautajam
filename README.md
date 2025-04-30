@@ -1,6 +1,6 @@
 <h1 align="center">Hello visitor! I'm Lautaro Merino</h1>
-<h2 align="center">Programmer by vocation, I love what surrounds programming since I met her with 14 years. So much so
-    that I study Informatic Engineering at UBA.</h2>
+<h3 align="center">Programmer by vocation, I love what surrounds programming since I met her with 14 years. So much so
+    that I study Informatic Engineering at UBA.</h3>
 
 🌐 [My personal page](https://lautaro-merino.notion.site/Buenas-Lautaro-un-gusto-fa3f0480202d48e3a1349e014c608866?pvs=4) (in Spanish)<br>
 📚 I’m focused on becoming a better backend developer, mainly working with Python, and modern tools to build efficient and scalable systems.<br>
