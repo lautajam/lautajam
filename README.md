@@ -2,7 +2,7 @@
 <h3 align="center">Programmer by vocation, I love what surrounds programming since I met her with 14 years. So much so
     that I study Informatic Engineering at UBA.</h3>
 
-🌐 [My personal page](https://lautaro-merino.notion.site/Buenas-Lautaro-un-gusto-fa3f0480202d48e3a1349e014c608866?pvs=4) (in Spanish)<br>
+🌐 [My personal page](https://lautaro-merino.notion.site/Buenas-Lautaro-un-gusto-fa3f0480202d48e3a1349e014c608866?pvs=4) (in spanish)<br>
 📚 I’m focused on becoming a better backend developer, mainly working with Python, and modern tools to build efficient and scalable systems.<br>
 🔌 I have a strong passion for microcontroller programming in C, rooted in my background as an Electronics Technician.<br>
 🎓 My projects —both personal and academic— span Python, Java, C, and more, always driven by curiosity and the urge to build things that work well.<br>
